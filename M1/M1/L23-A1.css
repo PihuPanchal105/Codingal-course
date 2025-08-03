@@ -1,0 +1,10 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color:rgb(223, 207, 187);
+}
+
+#container {
+    width: 600px;
+    height: 550px;
+    background-image: linear-gradient(rgb(80, 110, 79), rgb(50, 50, 50)), url()
+}
